@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pgalonza
+- 👀 I’m interested in TODO
+- 🌱 I’m currently learning TODO
+- 💞️ I’m looking to collaborate on TODO
+- 📫 How to reach me TODO
