@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2311F7BF&lines=Hello%2C+My++name+is+Peter)](https://git.io/typing-svg)
 
 ## About Me
-**Now I work as a DevOps engineer. I am developing in this direction and plan to become an SRE. I like to read technical literature, articles, attend conferences and meetups and also to share my experience with others.**
+**Now I work as a Lead Engineer (DevOps). I am developing in this direction and plan to become an SRE. I like to read technical literature, articles, attend conferences and meetups and also to share my experience with others.**
 
 ## Skills
 
