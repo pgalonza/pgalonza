@@ -23,7 +23,8 @@
 - VMWare
 
 ## Contacts
-- Email - <p.galonza@evaron.ru>
+- <p.galonza@evaron.ru>
+- [GitLab CI](https://gitlab.com/pgalonza)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pgalonza&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=08a516&bg_color=171c28)
