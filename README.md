@@ -10,20 +10,23 @@
 - *NIX, Red Hat based, Debian based(a bit)
 - Zabbix, ELK(beginner), Grafana(beginner)
 - Windows, Active Directory(a bit)
-- Asterisk
+- Asterisk, Yealink
 - MySQL, MariaDB
 - GitLab CI
 - Podman, Docker
 - Git
 - Ansible
-- Jira, Confluence
+- Jira, Confluence, Bitrix24
 - Nexus
 - 1С
 - Crypro Pro
 - VMWare
+- SAN, NAS
 
 ## Contacts
 - <p.galonza@evaron.ru>
+
+## Links
 - [GitLab CI](https://gitlab.com/pgalonza)
 
 ## GitHub Stats
