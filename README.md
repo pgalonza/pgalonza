@@ -22,6 +22,7 @@
 - Crypro Pro
 - VMWare
 - SAN, NAS
+- Soldering
 
 ## Contacts
 - <p.galonza@evaron.ru>
