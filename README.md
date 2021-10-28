@@ -5,10 +5,10 @@
 
 ## Skills
 
-- Python, Bash, Java(a bit)
+- Python, Bash
 - Netwoking, MikroTik
 - *NIX, Red Hat based, Debian based(a bit)
-- Zabbix, ELK(beginner), Grafana(beginner)
+- Zabbix
 - Windows, Active Directory(a bit)
 - Asterisk, Yealink
 - MySQL, MariaDB
@@ -16,10 +16,6 @@
 - Podman, Docker
 - Git
 - Ansible
-- Jira, Confluence, Bitrix24
-- Nexus
-- 1С
-- Crypro Pro
 - VMWare
 - SAN, NAS
 - Soldering
