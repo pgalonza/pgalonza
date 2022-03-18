@@ -21,7 +21,7 @@
 - Soldering
 
 ## Repositories
-[My Notes](https://github.com/Notes/README.md)
+My Notes [repo](https://github.com/pgalonza/Notes#readme)/[page](https://pgalonza.github.io/Notes/)
 
 ## Contacts
 - <p.galonza@evaron.ru>
