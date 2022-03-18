@@ -9,16 +9,20 @@
 - Netwoking, MikroTik
 - *NIX, Red Hat based, Debian based(a bit)
 - Zabbix
+- Filebeat, Vector, ElasticSearch + Kibana, OpenSearch
 - Windows, Active Directory(a bit)
 - Asterisk, Yealink
 - MySQL, MariaDB
-- GitLab CI
+- GitLab CI, Jenkins(a bit)
 - Podman, Docker
 - Git
 - Ansible
-- VMWare
+- Nexus
+- Jira, Confluence
+- WebLogic(a bit)
+- Nginx
+- VMWare(ESXI)
 - SAN, NAS
-- Soldering
 
 ## Repositories
 * My Notes [repo](https://github.com/pgalonza/Notes#readme) <-> [page](https://pgalonza.github.io/Notes/)
@@ -26,7 +30,7 @@
 * WireGuard Image [repo](https://gitlab.com/pgalonza/wireguard-image#readm)
 
 ## Contacts
-- <p.galonza@evaron.ru>
+- <p.galonza@evaron.ru> (ask my telegram)
 
 ## Links
 - [GitLab CI](https://gitlab.com/pgalonza)
