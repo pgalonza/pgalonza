@@ -21,7 +21,9 @@
 - Soldering
 
 ## Repositories
-My Notes [repo](https://github.com/pgalonza/Notes#readme)/[page](https://pgalonza.github.io/Notes/)
+* My Notes [repo](https://github.com/pgalonza/Notes#readme) <-> [page](https://pgalonza.github.io/Notes/)
+* WGDashboard [repo](https://github.com/pgalonza/WGDashboard#readme)
+* WireGuard Image [repo](https://gitlab.com/pgalonza/wireguard-image#readm)
 
 ## Contacts
 - <p.galonza@evaron.ru>
