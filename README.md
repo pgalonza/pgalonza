@@ -20,6 +20,9 @@
 - SAN, NAS
 - Soldering
 
+## Repositories
+[My Notes](https://github.com/pgalonza/Notes/README.md)
+
 ## Contacts
 - <p.galonza@evaron.ru>
 
