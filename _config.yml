@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+url: https://pgalonza.github.io
 readme_index:
   enabled:          true
   remove_originals: false
