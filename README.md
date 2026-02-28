@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2311F7BF&lines=Hello%2C+My++name+is+Peter)](https://git.io/typing-svg)
+<img src="./Ellar-Stack.png" alt="Ellar.Stack" width="800"/>
 
 ## About Me
 
